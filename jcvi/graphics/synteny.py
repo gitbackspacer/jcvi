@@ -247,7 +247,7 @@ class Region(object):
                     y + height / 2 + genelabelsize * vpad / 3,
                     markup(g.accn),
                     size=genelabelsize,
-                    rotation=25,
+                    rotation=90,
                     ha="left",
                     va="center",
                     color="lightslategray",
